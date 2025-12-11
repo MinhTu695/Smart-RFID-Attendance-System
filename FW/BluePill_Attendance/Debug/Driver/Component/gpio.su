@@ -1,0 +1,3 @@
+gpio.c:6:6:MCU_GPIO_Write	16	static
+gpio.c:12:9:MCU_GPIO_Read	16	static
+gpio.c:17:6:MCU_GPIO_Toggle	16	static

@@ -1,0 +1,5 @@
+mid_rfid.c:8:9:MID_RFID_Compare	24	static
+mid_rfid.c:18:6:MID_RFID_FormatString	24	static
+mid_rfid.c:24:6:MID_RFID_Copy	16	static
+mid_rfid.c:29:6:MID_RFID_Clear	16	static
+mid_rfid.c:34:6:MID_WiFi_Submit_Attendance	56	static

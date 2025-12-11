@@ -1,0 +1,2 @@
+bsp_rfid.c:4:6:bsp_rfid_init	8	static
+bsp_rfid.c:7:9:bsp_rfid_check	16	static

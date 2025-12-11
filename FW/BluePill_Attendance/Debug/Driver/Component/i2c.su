@@ -1,0 +1,2 @@
+i2c.c:9:6:MCU_I2C_Mem_Write	40	static
+i2c.c:14:6:MCU_I2C_Mem_Read	40	static

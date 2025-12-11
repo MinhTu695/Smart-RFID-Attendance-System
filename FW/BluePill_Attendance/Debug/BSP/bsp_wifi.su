@@ -1,0 +1,3 @@
+bsp_wifi.c:6:6:bsp_wifi_init	8	static
+bsp_wifi.c:10:9:bsp_wifi_is_connected	8	static
+bsp_wifi.c:15:6:bsp_wifi_send	16	static

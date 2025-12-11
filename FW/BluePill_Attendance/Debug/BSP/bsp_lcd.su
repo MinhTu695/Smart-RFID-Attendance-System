@@ -1,0 +1,3 @@
+bsp_lcd.c:3:6:bsp_lcd_init	8	static
+bsp_lcd.c:6:6:bsp_lcd_clear	8	static
+bsp_lcd.c:9:6:bsp_lcd_write	16	static

@@ -1,0 +1,2 @@
+bsp_button.c:3:6:bsp_button_init	4	static
+bsp_button.c:5:9:bsp_button_get_state	24	static

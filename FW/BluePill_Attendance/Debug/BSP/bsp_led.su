@@ -1,0 +1,6 @@
+bsp_led.c:4:6:bsp_led_init	4	static
+bsp_led.c:8:6:bsp_led_on	8	static
+bsp_led.c:12:6:bsp_led_off	8	static
+bsp_led.c:16:6:bsp_led_toggle	8	static
+bsp_led.c:21:6:bsp_led_blink	24	static
+bsp_led.c:30:6:bsp_beep	16	static

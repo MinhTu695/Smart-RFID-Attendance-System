@@ -1,0 +1,11 @@
+rfid.c:40:13:Write_Reg	16	static
+rfid.c:47:16:Read_Reg	24	static
+rfid.c:56:13:SetBitMask	16	static
+rfid.c:60:13:ClearBitMask	16	static
+rfid.c:64:13:AntennaOn	16	static
+rfid.c:69:13:MFRC522_Reset	8	static
+rfid.c:74:16:MFRC522_ToCard	40	static
+rfid.c:124:16:MFRC522_Request	32	static
+rfid.c:134:16:MFRC522_Anticoll	32	static
+rfid.c:154:6:MFRC522_Init	8	static
+rfid.c:174:9:MFRC522_Check	40	static

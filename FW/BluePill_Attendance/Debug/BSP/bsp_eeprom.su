@@ -1,0 +1,2 @@
+bsp_eeprom.c:3:6:bsp_eeprom_write	16	static
+bsp_eeprom.c:6:6:bsp_eeprom_read	16	static
